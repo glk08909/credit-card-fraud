@@ -1,7 +1,6 @@
 # credit-card-fraud
 
-Here’s a polished, professional **Deployment** section you can drop straight into your README. It’s written to match the tone of a real production ML project and aligns perfectly with the ML Zoomcamp rubric.
-
+This project implements a full machine learning pipeline to detect fraudulent credit card transactions. It covers everything from data exploration and model training to API deployment and cloud hosting. The goal is to build a production‑ready fraud detection service capable of real‑time inference.
 ---
 
 # 🚀 Deployment
