@@ -25,20 +25,8 @@ The workflow includes:
 • Cloud‑hosted API endpoint
 
 # Project Structure
-credit-card-fraud/
-│
-├── data/                 # Dataset (ignored in Git)
-├── models/               # Saved model and scaler
-├── notebooks/            # EDA and experimentation
-├── src/
-│   ├── train.py          # Training script
-│   ├── predict.py        # Local prediction script
-│   └── app.py            # Flask API
-│
-├── Dockerfile            # Container configuration
-├── requirements.txt      # Dependencies
-├── README.md             # Project documentation
-└── .gitignore
+
+<img width="674" height="332" alt="image" src="https://github.com/user-attachments/assets/a5828495-20ff-46c1-ac69-966045a47490" />
 
 # Model Training
 
