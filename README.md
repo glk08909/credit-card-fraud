@@ -108,5 +108,15 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 Place it in:
 data/creditcard.csv
 
+
+<img width="1914" height="973" alt="Screenshot 2025-12-30 at 10 19 27 PM" src="https://github.com/user-attachments/assets/abf148c5-3cf9-4a10-b7ef-e5ede4199836" />
+<img width="1915" height="1009" alt="Screenshot 2025-12-30 at 9 34 51 PM" src="https://github.com/user-attachments/assets/895945a5-abec-40e3-b71d-9e29ce4bfaa8" />
+<img width="1916" height="930" alt="Screenshot 2025-12-30 at 9 37 25 PM" src="https://github.com/user-attachments/assets/de69ea8b-99e3-4b23-a3c2-307f7da29157" />
+<img width="1625" height="1008" alt="Screenshot 2025-12-30 at 10 15 48 PM" src="https://github.com/user-attachments/assets/05f88785-1e38-4443-bda6-59214c4b4402" />
+<img width="1693" height="983" alt="Screenshot 2025-12-30 at 10 17 00 PM" src="https://github.com/user-attachments/assets/41b06e6e-ac06-4104-a3ba-b963259a646c" />
+<img width="1078" height="833" alt="Screenshot 2025-12-30 at 10 18 34 PM" src="https://github.com/user-attachments/assets/0d958e2e-63b8-44da-a058-c0c223ee7ea3" />
+<img width="1911" height="968" alt="Screenshot 2025-12-30 at 10 18 50 PM" src="https://github.com/user-attachments/assets/81eab4c8-5603-4405-8835-7d992428b036" />
+<img width="1914" height="973" alt="Screenshot 2025-12-30 at 10 19 27 PM" src="https://github.com/user-attachments/assets/b0b94ba7-806a-4105-8c4d-a29bdb10cb7b" />
+
 # Conclusion
 This project demonstrates a complete machine learning workflow, from data exploration to cloud deployment. It showcases best practices in reproducibility, API design, containerization, and real‑world ML service development.
